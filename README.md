@@ -13,16 +13,16 @@
 (6) You can start working on your answers as early as you want, but keep in mind that you need to attend up to Week’s 11 material to gain the knowledge needed to answer all the questions.
 
 **TASK-1**
-=> Set up and reading
+- Set up and reading
 
 **TASK-2**
-=> Determine research area and prepare data set
+- Determine research area and prepare data set
 
 **TASK-3**
-=> Pre-process your data set for structure learning
+- Pre-process your data set for structure learning
 
 **TASK-4**
-=> Draw out your knowledge-based graph
+- Draw out your knowledge-based graph
 
 **TASK-5**
-=> Perform structure learning
+- Perform structure learning
